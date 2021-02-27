@@ -11,7 +11,7 @@ then
         status_icon=" off"
     fi
 else
-    status_icon=" off"
+    status_icon=" off"
 fi
 
 echo $status_icon
